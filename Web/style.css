@@ -91,3 +91,11 @@ p {
   margin: 20px 40px;
 }
 
+table{
+  margin: 20px 40px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  text-align: center;
+}
